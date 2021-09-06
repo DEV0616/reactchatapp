@@ -14,4 +14,8 @@ For changing it to your personal chat-app you have to replace the api key to you
 
 https://eljanschatapp.netlify.app
 
+chat with me
+Login: customer
+Password: supersecret
+
 
