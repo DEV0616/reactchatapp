@@ -17,9 +17,9 @@ https://eljanschatapp.netlify.app
 # Chat with me
 
 
-Login: customer
+- Login: customer
 
 
-Password: supersecret
+- Password: supersecret
 
 
