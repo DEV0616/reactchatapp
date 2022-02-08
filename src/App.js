@@ -5,7 +5,7 @@ import ChatFeed from './components/ChatFeed';
 import LoginForm from './components/LoginForm';
 import './App.css';
 
-const projectID = '06741424-0df4-46cc-8164-3427fb0de3d4';
+const projectID = '';ae290d55-29bf-4182-a94f-0af7ed376980
 
 const App = () => {
   if (!localStorage.getItem('username')) return <LoginForm />;
@@ -21,6 +21,5 @@ const App = () => {
   );
 };
 
-// Logout elemey ucun ctrl shift i sonra terminalda applicationa basin local serveri temizleyin
 
 export default App;
